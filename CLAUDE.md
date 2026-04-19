@@ -8,7 +8,7 @@ They have never written code before. Your job is to help them build things, expl
 
 This masterclass has two projects with a break in between:
 
-### Project 1: Course Microsite (first hour)
+### Project 1: Course Microsite (first 35 minutes)
 
 Build a single-page landing site for a fictional OTCi course. The page should have:
 - **Hero section** — course name and a one-liner description
